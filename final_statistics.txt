@@ -1,0 +1,26 @@
+
+=== Atribuição de personagens por evento ===
+Evento 7 em (96, 208): Dragonborn
+Evento 2 em (95, 219): Ralof/Hadvar
+Evento 1 em (103, 230): Ralof/Hadvar
+Evento 9 em (124, 359): Dragonborn
+Evento H em (80, 359): Lydia, Balgruuf
+Evento E em (57, 314): Farengar, Balgruuf
+Evento D em (35, 285): Delphine, Lydia
+Evento O em (29, 272): Balgruuf, Delphine
+Evento C em (37, 267): Farengar, Delphine
+Evento 5 em (54, 258): Dragonborn
+Evento G em (81, 252): Balgruuf, Lydia
+Evento 3 em (79, 222): Ralof/Hadvar
+Evento 4 em (79, 207): Ralof/Hadvar
+Evento 6 em (48, 179): Dragonborn
+Evento B em (55, 125): Delphine, Farengar
+Evento 8 em (29, 125): Dragonborn
+Evento I em (17, 96): Lydia, Farengar
+Evento J em (27, 59): Farengar, Lydia
+Evento K em (35, 49): Ralof/Hadvar, Balgruuf
+
+=== Estatísticas finais ===
+Custo da combinatória achado: 956.31969
+Custo do caminho achado: 4949.00
+Custo total achado: 5905.31969
